@@ -1,9 +1,9 @@
 body{
   margin:0;
   padding:0;
+  background-color: #808080;
 }
 
 canvas {
-  background: #2FCDB4;
   display: block;
 }
