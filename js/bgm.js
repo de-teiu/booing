@@ -1,6 +1,6 @@
 /** ブーイング再生クラス */
 function Booing() {
-    var FILE_PATH = '../js/sound/81191__payattention__booooooo.mp3';
+    var FILE_PATH = 'https://raw.githubusercontent.com/de-teiu/booing/master/js/sound/81191__payattention__booooooo.mp3';
 
 
     //1つの音をうまいこと途切れないようにループ再生するため、mp3を読み込んだオブジェクトを2つ用意
