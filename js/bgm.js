@@ -1,4 +1,4 @@
-/** ブーイング再生クラス */
+/** ブーイング再生用オブジェクト定義 */
 function Booing() {
     var FILE_PATH = 'https://raw.githubusercontent.com/de-teiu/booing/master/js/sound/81191__payattention__booooooo.mp3';
 

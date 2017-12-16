@@ -1,4 +1,4 @@
-/** 人クラス */
+/** 画面に描画する人の定義 */
 function Person(x, y) {
   this.x = x;
   this.y = y;
